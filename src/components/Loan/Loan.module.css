@@ -1,0 +1,61 @@
+.loanBox{
+    width: 30%;
+    margin: 15px;
+}
+
+
+.loanDetails div{
+    padding: 0px 15px;
+    width: 30vw;
+    background-color: #38015c;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: space-between;
+}
+
+.userDetails {
+    padding:  0px 15px;
+    background-color: #d6c8ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.userDetails p {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+
+@media only screen and (max-width: 800px)  {
+    .loanBox{
+        width: 45%;
+    }
+
+    .loanDetails div
+    {
+        width: 45vw;
+    }
+
+    .userDetails {
+        width: 45vw;
+    }
+}
+
+
+@media only screen and (max-width: 800px)  {
+    .loanBox{
+        width: 75%;
+    }
+
+    .loanDetails div
+    {
+        width: 70vw;
+    }
+
+    .userDetails {
+        width: 70vw;
+    }
+}

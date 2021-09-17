@@ -1,0 +1,15 @@
+.loanHeader {
+    margin: 3rem auto;
+    text-align: center;
+  }
+  
+.loanHeader h1 {
+font-size: 3rem;
+margin-bottom: 5%;
+}
+
+.loans {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
