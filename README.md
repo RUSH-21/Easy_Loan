@@ -1,7 +1,6 @@
 # Easy Loan
 ### A loan mangement application which helps you apply for a loan and view the loan applications in the system.
-Website is live on - https://easyloan-by-arnab.netlify.app/ <br />
-Backend of the application - https://github.com/Arnab-31/Easy-Loan-Backend
+Website is live on - https://easy-loan-aarush.netlify.app/ <br />
 
 
 ## Features
